@@ -1,12 +1,12 @@
 {
-  "name": "Stromata",
+  "name": "expressAppStarter-pug-gulp-nodemon-sass-autoprefixer",
   "version": "1.0.0",
-  "description": "A simple app with express routing",
+  "description": "Starter for express app",
   "main": "server.js",
   "author": "giTo",
   "repositiory": {
     "type": "git",
-    "url": "https://github.com/giTomas/stromata.git"
+    "url": "https://github.com/giTomas/expressAppStarter-pug-gulp-nodemon-sass-autoprefixer.git"
   },
   "dependencies": {
     "body-parser": "^1.15.1",
